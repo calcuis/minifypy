@@ -3,7 +3,7 @@ install it via pip/pip3
 ```
 py install minifypy
 ```
-run the minifier by
+run the minifier (menu) by
 ```
 py -m minifypy
 ```
